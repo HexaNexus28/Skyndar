@@ -1,0 +1,728 @@
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\WPF.exe
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\WPF.deps.json
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\WPF.runtimeconfig.json
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\WPF.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\WPF.pdb
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\Avalonia.Base.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\Avalonia.Controls.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\Avalonia.DesignerSupport.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\Avalonia.Dialogs.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\Avalonia.Markup.Xaml.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\Avalonia.Markup.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\Avalonia.Metal.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\Avalonia.MicroCom.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\Avalonia.OpenGL.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\Avalonia.Vulkan.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\Avalonia.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\Avalonia.Controls.DataGrid.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\Avalonia.Remote.Protocol.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\ControlzEx.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\FluentWPF.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\Google.Protobuf.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\Humanizer.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\K4os.Compression.LZ4.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\K4os.Hash.xxHash.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\MahApps.Metro.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\MahApps.Metro.IconPacks.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\MahApps.Metro.IconPacks.BootstrapIcons.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\MahApps.Metro.IconPacks.CircumIcons.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\MahApps.Metro.IconPacks.Codicons.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\MahApps.Metro.IconPacks.Coolicons.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\MahApps.Metro.IconPacks.FileIcons.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\MahApps.Metro.IconPacks.Fontaudio.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\MahApps.Metro.IconPacks.Fontisto.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\MahApps.Metro.IconPacks.ForkAwesome.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\MahApps.Metro.IconPacks.GameIcons.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\MahApps.Metro.IconPacks.Lucide.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\MahApps.Metro.IconPacks.MemoryIcons.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\MahApps.Metro.IconPacks.PhosphorIcons.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\MahApps.Metro.IconPacks.PixelartIcons.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\MahApps.Metro.IconPacks.RadixIcons.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\MahApps.Metro.IconPacks.RemixIcon.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\MahApps.Metro.IconPacks.VaadinIcons.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\Material.Avalonia.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\Material.Colors.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\Material.Ripple.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\Material.Styles.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\Material.Avalonia.DataGrid.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\MaterialDesignColors.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\MaterialDesignThemes.MahApps.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\MaterialDesignThemesTest.Wpf.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\MicroCom.Runtime.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\Microsoft.Build.Locator.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\Mono.TextTemplating.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\MySql.Data.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\Syncfusion.Licensing.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\Syncfusion.SfSkinManager.WPF.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\Syncfusion.Themes.MaterialLight.WPF.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\System.Composition.AttributedModel.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\System.Composition.Convention.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\System.Composition.Hosting.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\System.Composition.Runtime.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\System.Composition.TypedParts.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\Wpf.Ui.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\Wpf.Ui.Abstractions.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\ZstdSharp.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\de\MahApps.Metro.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\obj\Debug\net9.0-windows\WPF.csproj.AssemblyReference.cache
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\obj\Debug\net9.0-windows\Views\Disponibilite.baml
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\obj\Debug\net9.0-windows\Views\Historique.baml
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\obj\Debug\net9.0-windows\Views\Accueil.g.cs
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\obj\Debug\net9.0-windows\Views\Disponibilite.g.cs
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\obj\Debug\net9.0-windows\Views\Historique.g.cs
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\obj\Debug\net9.0-windows\Views\Prestation.g.cs
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\obj\Debug\net9.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\obj\Debug\net9.0-windows\WPF_MarkupCompile.cache
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\obj\Debug\net9.0-windows\WPF_MarkupCompile.lref
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\obj\Debug\net9.0-windows\App.baml
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\obj\Debug\net9.0-windows\MainWindow.baml
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\obj\Debug\net9.0-windows\Views\Accueil.baml
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\obj\Debug\net9.0-windows\Views\Prestation.baml
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\obj\Debug\net9.0-windows\WPF.g.resources
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\obj\Debug\net9.0-windows\Avalonia\Resources.Inputs.cache
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\obj\Debug\net9.0-windows\WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\obj\Debug\net9.0-windows\WPF.AssemblyInfoInputs.cache
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\obj\Debug\net9.0-windows\WPF.AssemblyInfo.cs
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\obj\Debug\net9.0-windows\WPF.csproj.CoreCompileInputs.cache
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\obj\Debug\net9.0-windows\WPF.csproj.Up2Date
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\obj\Debug\net9.0-windows\WPF.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\obj\Debug\net9.0-windows\refint\WPF.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\obj\Debug\net9.0-windows\WPF.pdb
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\obj\Debug\net9.0-windows\WPF.genruntimeconfig.cache
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\obj\Debug\net9.0-windows\ref\WPF.dll
+<<<<<<< HEAD
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\MahApps.Metro.SimpleChildWindow.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\ModernWpf.Controls.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\ModernWpf.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\ModernWpf.MahApps.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\af-ZA\ModernWpf.Controls.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\af-ZA\ModernWpf.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\am-ET\ModernWpf.Controls.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\am-ET\ModernWpf.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\ar-SA\ModernWpf.Controls.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\ar-SA\ModernWpf.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\az-Latn-AZ\ModernWpf.Controls.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\az-Latn-AZ\ModernWpf.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\be-BY\ModernWpf.Controls.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\be-BY\ModernWpf.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\bg-BG\ModernWpf.Controls.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\bg-BG\ModernWpf.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\bn-BD\ModernWpf.Controls.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\bn-BD\ModernWpf.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\bs-Latn-BA\ModernWpf.Controls.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\bs-Latn-BA\ModernWpf.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\ca-ES\ModernWpf.Controls.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\ca-ES\ModernWpf.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\cs-CZ\ModernWpf.Controls.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\cs-CZ\ModernWpf.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\da-DK\ModernWpf.Controls.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\da-DK\ModernWpf.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\de-DE\ModernWpf.Controls.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\de-DE\ModernWpf.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\el-GR\ModernWpf.Controls.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\el-GR\ModernWpf.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\en-GB\ModernWpf.Controls.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\en-GB\ModernWpf.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\es-ES\ModernWpf.Controls.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\es-ES\ModernWpf.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\es-MX\ModernWpf.Controls.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\es-MX\ModernWpf.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\et-EE\ModernWpf.Controls.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\et-EE\ModernWpf.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\eu-ES\ModernWpf.Controls.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\eu-ES\ModernWpf.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\fa-IR\ModernWpf.Controls.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\fa-IR\ModernWpf.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\fi-FI\ModernWpf.Controls.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\fi-FI\ModernWpf.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\fil-PH\ModernWpf.Controls.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\fil-PH\ModernWpf.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\fr-CA\ModernWpf.Controls.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\fr-CA\ModernWpf.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\fr-FR\ModernWpf.Controls.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\fr-FR\ModernWpf.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\gl-ES\ModernWpf.Controls.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\gl-ES\ModernWpf.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\ha-Latn-NG\ModernWpf.Controls.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\ha-Latn-NG\ModernWpf.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\he-IL\ModernWpf.Controls.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\he-IL\ModernWpf.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\hi-IN\ModernWpf.Controls.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\hi-IN\ModernWpf.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\hr-HR\ModernWpf.Controls.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\hr-HR\ModernWpf.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\hu-HU\ModernWpf.Controls.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\hu-HU\ModernWpf.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\id-ID\ModernWpf.Controls.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\id-ID\ModernWpf.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\is-IS\ModernWpf.Controls.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\is-IS\ModernWpf.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\it-IT\ModernWpf.Controls.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\it-IT\ModernWpf.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\ja-JP\ModernWpf.Controls.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\ja-JP\ModernWpf.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\ka-GE\ModernWpf.Controls.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\ka-GE\ModernWpf.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\kk-KZ\ModernWpf.Controls.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\kk-KZ\ModernWpf.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\km-KH\ModernWpf.Controls.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\km-KH\ModernWpf.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\kn-IN\ModernWpf.Controls.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\kn-IN\ModernWpf.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\ko-KR\ModernWpf.Controls.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\ko-KR\ModernWpf.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\lo-LA\ModernWpf.Controls.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\lo-LA\ModernWpf.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\lt-LT\ModernWpf.Controls.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\lt-LT\ModernWpf.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\lv-LV\ModernWpf.Controls.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\lv-LV\ModernWpf.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\mk-MK\ModernWpf.Controls.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\mk-MK\ModernWpf.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\ml-IN\ModernWpf.Controls.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\ml-IN\ModernWpf.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\ms-MY\ModernWpf.Controls.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\ms-MY\ModernWpf.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\nb-NO\ModernWpf.Controls.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\nb-NO\ModernWpf.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\nl-NL\ModernWpf.Controls.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\nl-NL\ModernWpf.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\nn-NO\ModernWpf.Controls.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\nn-NO\ModernWpf.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\pl-PL\ModernWpf.Controls.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\pl-PL\ModernWpf.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\pt-BR\ModernWpf.Controls.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\pt-BR\ModernWpf.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\pt-PT\ModernWpf.Controls.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\pt-PT\ModernWpf.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\ro-RO\ModernWpf.Controls.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\ro-RO\ModernWpf.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\ru-RU\ModernWpf.Controls.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\ru-RU\ModernWpf.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\sk-SK\ModernWpf.Controls.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\sk-SK\ModernWpf.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\sl-SI\ModernWpf.Controls.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\sl-SI\ModernWpf.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\sq-AL\ModernWpf.Controls.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\sq-AL\ModernWpf.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\sr-Latn-RS\ModernWpf.Controls.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\sr-Latn-RS\ModernWpf.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\sv-SE\ModernWpf.Controls.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\sv-SE\ModernWpf.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\sw-KE\ModernWpf.Controls.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\sw-KE\ModernWpf.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\ta-IN\ModernWpf.Controls.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\ta-IN\ModernWpf.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\te-IN\ModernWpf.Controls.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\te-IN\ModernWpf.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\th-TH\ModernWpf.Controls.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\th-TH\ModernWpf.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\tr-TR\ModernWpf.Controls.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\tr-TR\ModernWpf.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\uk-UA\ModernWpf.Controls.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\uk-UA\ModernWpf.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\uz-Latn-UZ\ModernWpf.Controls.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\uz-Latn-UZ\ModernWpf.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\vi-VN\ModernWpf.Controls.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\vi-VN\ModernWpf.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\zh-CN\ModernWpf.Controls.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\zh-CN\ModernWpf.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\zh-TW\ModernWpf.Controls.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\zh-TW\ModernWpf.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\cs\ModernWpf.MahApps.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\de\ModernWpf.MahApps.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\es\ModernWpf.MahApps.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\fa\ModernWpf.MahApps.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\fr\ModernWpf.MahApps.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\it\ModernWpf.MahApps.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\ja\ModernWpf.MahApps.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\ko\ModernWpf.MahApps.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\pl\ModernWpf.MahApps.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\pt-BR\ModernWpf.MahApps.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\ru\ModernWpf.MahApps.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\tr\ModernWpf.MahApps.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\zh-Hans\ModernWpf.MahApps.resources.dll
+C:\Users\peter\OneDrive - Groupe ESIEA\S3\repo\App\WPF\bin\Debug\net9.0-windows\zh-Hant\ModernWpf.MahApps.resources.dll
+=======
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\WPF.exe
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\WPF.deps.json
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\WPF.runtimeconfig.json
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\WPF.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\WPF.pdb
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\FluentWPF.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\Google.Protobuf.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\K4os.Compression.LZ4.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\K4os.Hash.xxHash.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\MySql.Data.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\Wpf.Ui.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\Wpf.Ui.Abstractions.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\ZstdSharp.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\jpegl\Skyndar\App\WPF\obj\Debug\net9.0-windows\WPF.csproj.AssemblyReference.cache
+C:\Users\jpegl\Skyndar\App\WPF\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\Users\jpegl\Skyndar\App\WPF\obj\Debug\net9.0-windows\Views\Accueil.g.cs
+C:\Users\jpegl\Skyndar\App\WPF\obj\Debug\net9.0-windows\Views\Disponibilite.g.cs
+C:\Users\jpegl\Skyndar\App\WPF\obj\Debug\net9.0-windows\Views\Historique.g.cs
+C:\Users\jpegl\Skyndar\App\WPF\obj\Debug\net9.0-windows\Views\Prestation.g.cs
+C:\Users\jpegl\Skyndar\App\WPF\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\jpegl\Skyndar\App\WPF\obj\Debug\net9.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\jpegl\Skyndar\App\WPF\obj\Debug\net9.0-windows\WPF_MarkupCompile.cache
+C:\Users\jpegl\Skyndar\App\WPF\obj\Debug\net9.0-windows\WPF_MarkupCompile.lref
+C:\Users\jpegl\Skyndar\App\WPF\obj\Debug\net9.0-windows\MainWindow.baml
+C:\Users\jpegl\Skyndar\App\WPF\obj\Debug\net9.0-windows\Views\Accueil.baml
+C:\Users\jpegl\Skyndar\App\WPF\obj\Debug\net9.0-windows\Views\Disponibilite.baml
+C:\Users\jpegl\Skyndar\App\WPF\obj\Debug\net9.0-windows\Views\Historique.baml
+C:\Users\jpegl\Skyndar\App\WPF\obj\Debug\net9.0-windows\Views\Prestation.baml
+C:\Users\jpegl\Skyndar\App\WPF\obj\Debug\net9.0-windows\WPF.g.resources
+C:\Users\jpegl\Skyndar\App\WPF\obj\Debug\net9.0-windows\WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpegl\Skyndar\App\WPF\obj\Debug\net9.0-windows\WPF.AssemblyInfoInputs.cache
+C:\Users\jpegl\Skyndar\App\WPF\obj\Debug\net9.0-windows\WPF.AssemblyInfo.cs
+C:\Users\jpegl\Skyndar\App\WPF\obj\Debug\net9.0-windows\WPF.csproj.CoreCompileInputs.cache
+C:\Users\jpegl\Skyndar\App\WPF\obj\Debug\net9.0-windows\WPF.csproj.Up2Date
+C:\Users\jpegl\Skyndar\App\WPF\obj\Debug\net9.0-windows\WPF.dll
+C:\Users\jpegl\Skyndar\App\WPF\obj\Debug\net9.0-windows\refint\WPF.dll
+C:\Users\jpegl\Skyndar\App\WPF\obj\Debug\net9.0-windows\WPF.pdb
+C:\Users\jpegl\Skyndar\App\WPF\obj\Debug\net9.0-windows\WPF.genruntimeconfig.cache
+C:\Users\jpegl\Skyndar\App\WPF\obj\Debug\net9.0-windows\ref\WPF.dll
+>>>>>>> d04938c9a4b12038f4ad3636ac5f5470a7d8844e
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\Avalonia.Base.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\Avalonia.Controls.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\Avalonia.DesignerSupport.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\Avalonia.Dialogs.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\Avalonia.Markup.Xaml.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\Avalonia.Markup.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\Avalonia.Metal.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\Avalonia.MicroCom.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\Avalonia.OpenGL.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\Avalonia.Vulkan.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\Avalonia.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\Avalonia.Controls.DataGrid.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\Avalonia.Remote.Protocol.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\ControlzEx.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\Humanizer.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\MahApps.Metro.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\MahApps.Metro.IconPacks.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\MahApps.Metro.IconPacks.BootstrapIcons.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\MahApps.Metro.IconPacks.CircumIcons.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\MahApps.Metro.IconPacks.Codicons.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\MahApps.Metro.IconPacks.Coolicons.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\MahApps.Metro.IconPacks.FileIcons.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\MahApps.Metro.IconPacks.Fontaudio.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\MahApps.Metro.IconPacks.Fontisto.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\MahApps.Metro.IconPacks.ForkAwesome.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\MahApps.Metro.IconPacks.GameIcons.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\MahApps.Metro.IconPacks.Lucide.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\MahApps.Metro.IconPacks.MemoryIcons.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\MahApps.Metro.IconPacks.PhosphorIcons.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\MahApps.Metro.IconPacks.PixelartIcons.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\MahApps.Metro.IconPacks.RadixIcons.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\MahApps.Metro.IconPacks.RemixIcon.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\MahApps.Metro.IconPacks.VaadinIcons.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\MahApps.Metro.SimpleChildWindow.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\Material.Avalonia.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\Material.Colors.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\Material.Ripple.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\Material.Styles.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\Material.Avalonia.DataGrid.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\MaterialDesignColors.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\MaterialDesignThemes.MahApps.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\MaterialDesignThemesTest.Wpf.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\MicroCom.Runtime.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\Microsoft.Build.Locator.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\ModernWpf.Controls.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\ModernWpf.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\ModernWpf.MahApps.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\Mono.TextTemplating.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\Syncfusion.Licensing.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\Syncfusion.SfSkinManager.WPF.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\Syncfusion.Themes.MaterialLight.WPF.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\System.Composition.AttributedModel.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\System.Composition.Convention.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\System.Composition.Hosting.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\System.Composition.Runtime.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\System.Composition.TypedParts.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\System.Text.Json.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\de\MahApps.Metro.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\af-ZA\ModernWpf.Controls.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\af-ZA\ModernWpf.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\am-ET\ModernWpf.Controls.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\am-ET\ModernWpf.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\ar-SA\ModernWpf.Controls.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\ar-SA\ModernWpf.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\az-Latn-AZ\ModernWpf.Controls.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\az-Latn-AZ\ModernWpf.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\be-BY\ModernWpf.Controls.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\be-BY\ModernWpf.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\bg-BG\ModernWpf.Controls.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\bg-BG\ModernWpf.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\bn-BD\ModernWpf.Controls.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\bn-BD\ModernWpf.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\bs-Latn-BA\ModernWpf.Controls.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\bs-Latn-BA\ModernWpf.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\ca-ES\ModernWpf.Controls.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\ca-ES\ModernWpf.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\cs-CZ\ModernWpf.Controls.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\cs-CZ\ModernWpf.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\da-DK\ModernWpf.Controls.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\da-DK\ModernWpf.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\de-DE\ModernWpf.Controls.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\de-DE\ModernWpf.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\el-GR\ModernWpf.Controls.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\el-GR\ModernWpf.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\en-GB\ModernWpf.Controls.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\en-GB\ModernWpf.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\es-ES\ModernWpf.Controls.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\es-ES\ModernWpf.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\es-MX\ModernWpf.Controls.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\es-MX\ModernWpf.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\et-EE\ModernWpf.Controls.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\et-EE\ModernWpf.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\eu-ES\ModernWpf.Controls.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\eu-ES\ModernWpf.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\fa-IR\ModernWpf.Controls.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\fa-IR\ModernWpf.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\fi-FI\ModernWpf.Controls.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\fi-FI\ModernWpf.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\fil-PH\ModernWpf.Controls.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\fil-PH\ModernWpf.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\fr-CA\ModernWpf.Controls.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\fr-CA\ModernWpf.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\fr-FR\ModernWpf.Controls.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\fr-FR\ModernWpf.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\gl-ES\ModernWpf.Controls.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\gl-ES\ModernWpf.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\ha-Latn-NG\ModernWpf.Controls.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\ha-Latn-NG\ModernWpf.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\he-IL\ModernWpf.Controls.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\he-IL\ModernWpf.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\hi-IN\ModernWpf.Controls.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\hi-IN\ModernWpf.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\hr-HR\ModernWpf.Controls.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\hr-HR\ModernWpf.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\hu-HU\ModernWpf.Controls.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\hu-HU\ModernWpf.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\id-ID\ModernWpf.Controls.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\id-ID\ModernWpf.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\is-IS\ModernWpf.Controls.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\is-IS\ModernWpf.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\it-IT\ModernWpf.Controls.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\it-IT\ModernWpf.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\ja-JP\ModernWpf.Controls.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\ja-JP\ModernWpf.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\ka-GE\ModernWpf.Controls.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\ka-GE\ModernWpf.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\kk-KZ\ModernWpf.Controls.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\kk-KZ\ModernWpf.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\km-KH\ModernWpf.Controls.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\km-KH\ModernWpf.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\kn-IN\ModernWpf.Controls.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\kn-IN\ModernWpf.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\ko-KR\ModernWpf.Controls.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\ko-KR\ModernWpf.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\lo-LA\ModernWpf.Controls.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\lo-LA\ModernWpf.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\lt-LT\ModernWpf.Controls.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\lt-LT\ModernWpf.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\lv-LV\ModernWpf.Controls.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\lv-LV\ModernWpf.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\mk-MK\ModernWpf.Controls.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\mk-MK\ModernWpf.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\ml-IN\ModernWpf.Controls.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\ml-IN\ModernWpf.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\ms-MY\ModernWpf.Controls.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\ms-MY\ModernWpf.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\nb-NO\ModernWpf.Controls.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\nb-NO\ModernWpf.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\nl-NL\ModernWpf.Controls.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\nl-NL\ModernWpf.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\nn-NO\ModernWpf.Controls.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\nn-NO\ModernWpf.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\pl-PL\ModernWpf.Controls.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\pl-PL\ModernWpf.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\pt-BR\ModernWpf.Controls.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\pt-BR\ModernWpf.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\pt-PT\ModernWpf.Controls.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\pt-PT\ModernWpf.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\ro-RO\ModernWpf.Controls.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\ro-RO\ModernWpf.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\ru-RU\ModernWpf.Controls.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\ru-RU\ModernWpf.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\sk-SK\ModernWpf.Controls.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\sk-SK\ModernWpf.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\sl-SI\ModernWpf.Controls.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\sl-SI\ModernWpf.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\sq-AL\ModernWpf.Controls.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\sq-AL\ModernWpf.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\sr-Latn-RS\ModernWpf.Controls.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\sr-Latn-RS\ModernWpf.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\sv-SE\ModernWpf.Controls.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\sv-SE\ModernWpf.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\sw-KE\ModernWpf.Controls.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\sw-KE\ModernWpf.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\ta-IN\ModernWpf.Controls.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\ta-IN\ModernWpf.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\te-IN\ModernWpf.Controls.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\te-IN\ModernWpf.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\th-TH\ModernWpf.Controls.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\th-TH\ModernWpf.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\tr-TR\ModernWpf.Controls.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\tr-TR\ModernWpf.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\uk-UA\ModernWpf.Controls.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\uk-UA\ModernWpf.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\uz-Latn-UZ\ModernWpf.Controls.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\uz-Latn-UZ\ModernWpf.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\vi-VN\ModernWpf.Controls.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\vi-VN\ModernWpf.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\zh-CN\ModernWpf.Controls.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\zh-CN\ModernWpf.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\zh-TW\ModernWpf.Controls.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\zh-TW\ModernWpf.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\cs\ModernWpf.MahApps.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\de\ModernWpf.MahApps.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\es\ModernWpf.MahApps.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\fa\ModernWpf.MahApps.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\fr\ModernWpf.MahApps.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\it\ModernWpf.MahApps.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\ja\ModernWpf.MahApps.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\ko\ModernWpf.MahApps.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\pl\ModernWpf.MahApps.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\pt-BR\ModernWpf.MahApps.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\ru\ModernWpf.MahApps.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\tr\ModernWpf.MahApps.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\zh-Hans\ModernWpf.MahApps.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\bin\Debug\net9.0-windows\zh-Hant\ModernWpf.MahApps.resources.dll
+C:\Users\jpegl\Skyndar\App\WPF\obj\Debug\net9.0-windows\App.baml
+C:\Users\jpegl\Skyndar\App\WPF\obj\Debug\net9.0-windows\Avalonia\Resources.Inputs.cache

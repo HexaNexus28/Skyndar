@@ -1,0 +1,199 @@
+﻿<Controls:MetroWindow x:Class="WPF.Views.Accueil"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF.Views"
+        xmlns:Controls="http://metro.mahapps.com/winfx/xaml/controls"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" 
+        mc:Ignorable="d"
+                      
+        Title="Accueil" 
+        Height="600" 
+        Width="900"
+        GlowBrush="{DynamicResource AccentColorBrush}"
+        WindowTitleBrush="{DynamicResource AccentColorBrush}"
+        BorderThickness="0"
+        WindowTransitionsEnabled="True"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="CanResizeWithGrip"
+        TitleCharacterCasing="Normal"
+        BorderBrush="{DynamicResource SystemControlBackgroundBaseLowBrush}"
+        NonActiveGlowBrush="{DynamicResource SystemControlBackgroundBaseLowBrush}"
+       >
+
+    <Controls:MetroWindow.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Controls.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Fonts.xaml" />
+               
+            </ResourceDictionary.MergedDictionaries>
+
+            <SolidColorBrush x:Key="WindowBackground" Color="#FFF3F3F3"/>
+            <SolidColorBrush x:Key="CardBackground" Color="#FFFFFFFF"/>
+            <SolidColorBrush x:Key="AccentColor" Color="#FF0078D4"/>
+            <SolidColorBrush x:Key="TextPrimary" Color="#FF000000"/>
+            <SolidColorBrush x:Key="TextSecondary" Color="#FF666666"/>
+
+           
+            <Style x:Key="Win11TabItemStyle" TargetType="TabItem">
+                <Setter Property="Controls:ControlsHelper.ContentCharacterCasing" Value="Normal"/>
+                <Setter Property="FontSize" Value="14"/>
+                <Setter Property="FontFamily" Value="Segoe UI Variable"/>
+                <Setter Property="Margin" Value="4 4 4 0"/>
+                <Setter Property="Padding" Value="16 12"/>
+                <Setter Property="Background" Value="Transparent"/>
+                <Setter Property="Foreground" Value="{DynamicResource TextPrimary}"/>
+                <Setter Property="BorderBrush" Value="Transparent"/>
+                <Setter Property="Controls:ControlsHelper.CornerRadius" Value="8"/>
+                <Setter Property="Template">
+                    <Setter.Value>
+                        <ControlTemplate TargetType="TabItem">
+                            <Grid>
+                                <Border Name="Border" 
+                                        Background="{TemplateBinding Background}"
+                                        BorderBrush="{TemplateBinding BorderBrush}"
+                                        BorderThickness="1"
+                                        CornerRadius="{TemplateBinding Controls:ControlsHelper.CornerRadius}">
+                                    <ContentPresenter x:Name="ContentSite"
+                                                    VerticalAlignment="Center"
+                                                    HorizontalAlignment="Center"
+                                                    ContentSource="Header"
+                                                    Margin="{TemplateBinding Padding}"/>
+                                </Border>
+                            </Grid>
+                            <ControlTemplate.Triggers>
+                                <Trigger Property="IsSelected" Value="True">
+                                    <Setter TargetName="Border" Property="Background" Value="{DynamicResource AccentColor}" />
+                                    <Setter Property="Foreground" Value="White" />
+                                </Trigger>
+                                <Trigger Property="IsMouseOver" Value="True">
+                                    <Setter TargetName="Border" Property="Background" Value="{DynamicResource AccentColor}" />
+                                    <Setter TargetName="Border" Property="Opacity" Value="0.7" />
+                                </Trigger>
+                            </ControlTemplate.Triggers>
+                        </ControlTemplate>
+                    </Setter.Value>
+                </Setter>
+            </Style>
+
+      
+            <Style x:Key="Win11TabControlStyle" TargetType="TabControl">
+                <Setter Property="Background" Value="Transparent"/>
+                <Setter Property="BorderBrush" Value="Transparent"/>
+                <Setter Property="Controls:ControlsHelper.CornerRadius" Value="8"/>
+                <Setter Property="Padding" Value="0"/>
+                <Setter Property="Margin" Value="0"/>
+                <Setter Property="TabStripPlacement" Value="Left"/>
+                <Setter Property="Template">
+                    <Setter.Value>
+                        <ControlTemplate TargetType="TabControl">
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="Auto"/>
+                                    <ColumnDefinition Width="*"/>
+                                </Grid.ColumnDefinitions>
+
+                                <Border Grid.Column="0"
+                                        Background="{DynamicResource CardBackground}"
+                                        CornerRadius="8,0,0,8"
+                                        Margin="0,0,-1,0">
+                                    <TabPanel Name="HeaderPanel"
+                                            Panel.ZIndex="1"
+                                            Margin="0"
+                                            IsItemsHost="True"/>
+                                </Border>
+
+                                <Border Grid.Column="1"
+                                        Background="{DynamicResource CardBackground}"
+                                        CornerRadius="0,8,8,0"
+                                        BorderThickness="1"
+                                        BorderBrush="{DynamicResource SystemControlBackgroundBaseLowBrush}">
+                                    <ContentPresenter x:Name="PART_SelectedContentHost"
+                                                    Margin="0"
+                                                    ContentSource="SelectedContent"/>
+                                </Border>
+                            </Grid>
+                        </ControlTemplate>
+                    </Setter.Value>
+                </Setter>
+            </Style>
+        </ResourceDictionary>
+    </Controls:MetroWindow.Resources>
+
+   
+    <Grid Background="{DynamicResource WindowBackground}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        
+        
+        <Grid Grid.Row="0" Background="Transparent">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+
+          
+            <StackPanel Grid.Column="0" Orientation="Horizontal" VerticalAlignment="Center" Margin="12,0">
+                <TextBlock Text="Accueil" 
+                           FontSize="14" 
+                           FontWeight="SemiBold"
+                           FontFamily="Segoe UI Variable"
+                           VerticalAlignment="Center" 
+                           Foreground="{DynamicResource TextPrimary}"/>
+            </StackPanel>
+
+           
+            
+        </Grid>
+
+        <!-- Content Area -->
+        <Border Grid.Row="1" CornerRadius="8" Margin="12" Background="{DynamicResource CardBackground}"
+                BorderBrush="{DynamicResource SystemControlBackgroundBaseLowBrush}"
+                BorderThickness="1"
+                >
+            <TabControl Style="{StaticResource Win11TabControlStyle}">
+                <!-- Prestations Tab -->
+                <TabItem Style="{StaticResource Win11TabItemStyle}">
+                    <TabItem.Header>
+                        <StackPanel Orientation="Horizontal">
+                            <materialDesign:PackIcon Kind="CalendarCheck" Width="20" Height="20" Margin="0 0 8 0"
+                                                   Foreground="{Binding RelativeSource={RelativeSource AncestorType=TabItem}, Path=Foreground}"/>
+                            <TextBlock Text="Prestations" VerticalAlignment="Center" FontWeight="Medium"/>
+                        </StackPanel>
+                    </TabItem.Header>
+                    <local:Prestation/>
+                </TabItem>
+
+                <!-- Disponibilités Tab -->
+                <TabItem Style="{StaticResource Win11TabItemStyle}">
+                    <TabItem.Header>
+                        <StackPanel Orientation="Horizontal">
+                            <materialDesign:PackIcon Kind="ClockOutline" Width="20" Height="20" Margin="0 0 8 0"
+                                                   Foreground="{Binding RelativeSource={RelativeSource AncestorType=TabItem}, Path=Foreground}"/>
+                            <TextBlock Text="Disponibilités" VerticalAlignment="Center" FontWeight="Medium"/>
+                        </StackPanel>
+                    </TabItem.Header>
+                    <local:Disponibilite/>
+                </TabItem>
+
+               
+                <TabItem Style="{StaticResource Win11TabItemStyle}">
+                    <TabItem.Header>
+                        <StackPanel Orientation="Horizontal">
+                            <materialDesign:PackIcon Kind="History" Width="20" Height="20" Margin="0 0 8 0"
+                                                   Foreground="{Binding RelativeSource={RelativeSource AncestorType=TabItem}, Path=Foreground}"/>
+                            <TextBlock Text="Historique clients" VerticalAlignment="Center" FontWeight="Medium"/>
+                        </StackPanel>
+                    </TabItem.Header>
+                    <local:Historique/>
+                </TabItem>
+            </TabControl>
+        </Border>
+    </Grid>
+</Controls:MetroWindow>

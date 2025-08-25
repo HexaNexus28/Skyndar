@@ -1,0 +1,51 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net9.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Prestation\**" />
+    <EmbeddedResource Remove="Prestation\**" />
+    <None Remove="Prestation\**" />
+    <Page Remove="Prestation\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentWPF" Version="0.10.2" />
+    <PackageReference Include="MahApps.Metro" Version="2.4.10" />
+    <PackageReference Include="MahApps.Metro.IconPacks" Version="5.1.0" />
+    <PackageReference Include="MahApps.Metro.IconPacks.Core" Version="5.1.0" />
+    <PackageReference Include="MahApps.Metro.IconPacks.FontAwesome" Version="5.1.0" />
+    <PackageReference Include="MahApps.Metro.IconPacks.Material" Version="5.1.0" />
+    <PackageReference Include="MahApps.Metro.IconPacks.MaterialDesign" Version="5.1.0" />
+    <PackageReference Include="MahApps.Metro.IconPacks.MaterialLight" Version="5.1.0" />
+    <PackageReference Include="MahApps.Metro.IconPacks.Modern" Version="5.1.0" />
+    <PackageReference Include="MahApps.Metro.IconPacks.SimpleIcons" Version="5.1.0" />
+    <PackageReference Include="MahApps.Metro.Resources" Version="0.6.1" />
+    <PackageReference Include="MahApps.Metro.SimpleChildWindow" Version="2.2.1" />
+    <PackageReference Include="Material.Avalonia.DataGrid" Version="3.12.0" />
+    <PackageReference Include="MaterialDesignThemes" Version="5.2.1" />
+    <PackageReference Include="MaterialDesignThemes.MahApps" Version="5.2.1" />
+    <PackageReference Include="MaterialDesignThemes.MahApps.163" Version="0.0.111" />
+    <PackageReference Include="MaterialDesignThemes.Wpf" Version="1.0.1" />
+    <PackageReference Include="MaterialDesignThemesTest.Wpf" Version="1.0.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="9.0.6">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="ModernWpfUI.MahApps" Version="0.9.5" />
+    <PackageReference Include="MySql.Data" Version="9.3.0" />
+    <PackageReference Include="Syncfusion.Themes.MaterialLight.WPF" Version="30.1.37" />
+    <PackageReference Include="WPF-UI" Version="4.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Assets\" />
+  </ItemGroup>
+
+</Project>

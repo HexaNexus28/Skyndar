@@ -1,0 +1,155 @@
+﻿<UserControl x:Class="WPF.Views.Disponibilite"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:Controls="http://metro.mahapps.com/winfx/xaml/controls"
+             mc:Ignorable="d"
+             d:DesignHeight="450" d:DesignWidth="800">
+
+    <UserControl.Resources>
+        <SolidColorBrush x:Key="BlueAccentBrush" Color="#2196F3"/>
+
+        <Style x:Key="RoundedAccentButton" TargetType="Button">
+            <Setter Property="Background" Value="{StaticResource BlueAccentBrush}"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border x:Name="bd"
+                                Background="{TemplateBinding Background}"
+                                BorderBrush="{TemplateBinding BorderBrush}"
+                                BorderThickness="{TemplateBinding BorderThickness}"
+                                CornerRadius="8"
+                                RenderTransformOrigin="0.5,0.5">
+                            <Border.RenderTransform>
+                                <ScaleTransform ScaleX="1" ScaleY="1"/>
+                            </Border.RenderTransform>
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Trigger.EnterActions>
+                                    <BeginStoryboard>
+                                        <Storyboard>
+                                            <DoubleAnimation Storyboard.TargetName="bd"
+                                                             Storyboard.TargetProperty="(UIElement.RenderTransform).(ScaleTransform.ScaleX)"
+                                                             To="1.05" Duration="0:0:0.2"/>
+                                            <DoubleAnimation Storyboard.TargetName="bd"
+                                                             Storyboard.TargetProperty="(UIElement.RenderTransform).(ScaleTransform.ScaleY)"
+                                                             To="1.05" Duration="0:0:0.2"/>
+                                        </Storyboard>
+                                    </BeginStoryboard>
+                                </Trigger.EnterActions>
+                                <Trigger.ExitActions>
+                                    <BeginStoryboard>
+                                        <Storyboard>
+                                            <DoubleAnimation Storyboard.TargetName="bd"
+                                                             Storyboard.TargetProperty="(UIElement.RenderTransform).(ScaleTransform.ScaleX)"
+                                                             To="1.0" Duration="0:0:0.2"/>
+                                            <DoubleAnimation Storyboard.TargetName="bd"
+                                                             Storyboard.TargetProperty="(UIElement.RenderTransform).(ScaleTransform.ScaleY)"
+                                                             To="1.0" Duration="0:0:0.2"/>
+                                        </Storyboard>
+                                    </BeginStoryboard>
+                                </Trigger.ExitActions>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </UserControl.Resources>
+
+    <!-- 🔥 FOND GRADIENT BLEU -->
+    <Grid Margin="12">
+        <Grid.Background>
+            <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                <GradientStop Color="#7ba6fe" Offset="0"/>
+                <GradientStop Color="White" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="2*" />
+        </Grid.ColumnDefinitions>
+
+        <!-- CALENDRIER -->
+        <Border Grid.Column="0" Margin="8" Background="White" CornerRadius="12" Padding="10" BorderBrush="#CCCCCC" BorderThickness="1">
+            <StackPanel>
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,0,0,10">
+                    <Button Content="⏪" Command="{Binding PreviousMonthCommand}" Style="{StaticResource RoundedAccentButton}" Width="32" Height="32" Margin="5"/>
+                    <TextBlock Text="{Binding CurrentMonth}" FontSize="20" FontWeight="Bold" Foreground="#2196F3" Margin="10,0" VerticalAlignment="Center"/>
+                    <Button Content="⏩" Command="{Binding NextMonthCommand}" Style="{StaticResource RoundedAccentButton}" Width="32" Height="32" Margin="5"/>
+                </StackPanel>
+
+                <ItemsControl ItemsSource="{Binding Days}">
+                    <ItemsControl.ItemsPanel>
+                        <ItemsPanelTemplate>
+                            <UniformGrid Columns="7"/>
+                        </ItemsPanelTemplate>
+                    </ItemsControl.ItemsPanel>
+                    <ItemsControl.ItemTemplate>
+                        <DataTemplate>
+                            <Button Content="{Binding DayNumber}"
+                                    Command="{Binding DataContext.SelectDayCommand, RelativeSource={RelativeSource AncestorType=ItemsControl}}"
+                                    CommandParameter="{Binding}"
+                                    IsEnabled="{Binding IsValid}"
+                                    Margin="4"
+                                    MinWidth="40" MinHeight="40"
+                                    Style="{StaticResource RoundedAccentButton}"
+                                    FontWeight="Bold"
+                                    Background="#E3F2FD"
+                                    Foreground="#0D47A1"/>
+                        </DataTemplate>
+                    </ItemsControl.ItemTemplate>
+                </ItemsControl>
+
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="10,20,10,0">
+                    <CheckBox Content="En Cabinet" IsChecked="{Binding IsCabinetChecked}" Margin="5"/>
+                    <CheckBox Content="Visio" IsChecked="{Binding IsVisioChecked}" Margin="5"/>
+                </StackPanel>
+            </StackPanel>
+        </Border>
+
+        <!-- CRÉNEAUX -->
+        <Border Grid.Column="1" Margin="8" Background="White" CornerRadius="12" Padding="10" BorderBrush="#CCCCCC" BorderThickness="1">
+            <StackPanel>
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,0,0,10">
+                    <TextBlock Text="Prestations" FontSize="16" FontWeight="Bold" Foreground="#0D47A1" Margin="5"/>
+                    <ComboBox ItemsSource="{Binding Prestations}" SelectedValue="{Binding SelectedPrestationId}" SelectedValuePath="Id" DisplayMemberPath="Titre" Width="200" Margin="5"/>
+                </StackPanel>
+
+                <TextBlock Text="Créneaux disponibles" FontSize="16" FontWeight="Bold" TextAlignment="Center" Margin="10" Foreground="#0D47A1"/>
+
+                <ItemsControl ItemsSource="{Binding DaysInWeeks}">
+                    <ItemsControl.ItemsPanel>
+                        <ItemsPanelTemplate>
+                            <UniformGrid Columns="7"/>
+                        </ItemsPanelTemplate>
+                    </ItemsControl.ItemsPanel>
+                    <ItemsControl.ItemTemplate>
+                        <DataTemplate>
+                            <Border BorderBrush="#CCCCCC" BorderThickness="1" Margin="5" CornerRadius="8" Background="White" Padding="6">
+                                <StackPanel>
+                                    <TextBlock Text="{Binding Date, StringFormat={}{0:dddd dd MMMM}}" FontSize="12" FontWeight="Bold" TextAlignment="Center" Foreground="Gray" Margin="0,0,0,5"/>
+
+                                    <ItemsControl ItemsSource="{Binding DayCreneaux}">
+                                        <ItemsControl.ItemTemplate>
+                                            <DataTemplate>
+                                                <Button Content="{Binding HeureDebut, Converter={StaticResource TimeSpanConverter}}" Command="{Binding DataContext.SupprimerCreneauCommand, RelativeSource={RelativeSource AncestorType=UserControl}}" CommandParameter="{Binding}" Margin="2" Padding="4" MinWidth="60" Style="{StaticResource RoundedAccentButton}" FontWeight="SemiBold"/>
+                                            </DataTemplate>
+                                        </ItemsControl.ItemTemplate>
+                                    </ItemsControl>
+
+                                    <Button Content="+" Command="{Binding DataContext.AjouterCreneauCommand, RelativeSource={RelativeSource AncestorType=UserControl}}" CommandParameter="{Binding}" Width="32" Height="32" HorizontalAlignment="Center" Style="{StaticResource RoundedAccentButton}" FontWeight="Bold" Margin="6"/>
+                                </StackPanel>
+                            </Border>
+                        </DataTemplate>
+                    </ItemsControl.ItemTemplate>
+                </ItemsControl>
+            </StackPanel>
+        </Border>
+    </Grid>
+</UserControl>
