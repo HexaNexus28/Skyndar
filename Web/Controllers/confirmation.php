@@ -3,9 +3,14 @@ require '../Models/userdata.php';
 require '../Models/creneaudata.php';
 require '../vendor/autoload.php';
 
+
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;
+use Dotenv\Dotenv;
 
+// Charger les variables d'environnement
+$dotenv = Dotenv::createImmutable(__DIR__ . '/../');
+$dotenv->load();
 
 
 $prestataireEmail = 'testcodelily@gmail.com'; //Test pour voir si le prestataire reçoit le mail
@@ -47,13 +52,14 @@ if ($_SERVER['REQUEST_METHOD'] === 'GET') {
             $mailClient->Encoding = 'base64';
             $mailClient->SMTPDebug = 0;
             $mailClient->isSMTP();
-            $mailClient->Host = 'smtp.gmail.com';
+            $mailClient->Host = $_ENV['SMTP_HOST'];
             $mailClient->SMTPAuth = true;
-            $mailClient->Username = 'zoglopiere20@gmail.com';
-            $mailClient->Password = 'wqfn zcpx qiha cnyc';
+            $mailClient->Username = $_ENV['SMTP_USERNAME'];
+            $mailClient->Password = $_ENV['SMTP_PASSWORD'];
             $mailClient->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
-            $mailClient->Port = 587;
-            $mailClient->setFrom('zoglopiere20@gmail.com', 'Skyndar');
+            $mailClient->Port = $_ENV['SMTP_PORT'];
+            $mailClient->setFrom($_ENV['SMTP_FROM'], $_ENV['SMTP_NAME']);
+
             $mailClient->addAddress($clientemail, $prenom);
             $mailClient->isHTML(true);
             $mailClient->Subject = 'Confirmation de rendez-vous';
@@ -81,14 +87,14 @@ if ($_SERVER['REQUEST_METHOD'] === 'GET') {
             $mailPro->Encoding = 'base64';
             $mailPro->SMTPDebug = 0;
             $mailPro->isSMTP();
-            $mailPro->Host = 'smtp.gmail.com';
+            $mailPro->Host = $_ENV['SMTP_HOST'];
             $mailPro->SMTPAuth = true;
-            $mailPro->Username = 'zoglopiere20@gmail.com';
-            $mailPro->Password = 'wqfn zcpx qiha cnyc';
+            $mailPro->Username = $_ENV['SMTP_USERNAME'];
+            $mailPro->Password = $_ENV['SMTP_PASSWORD'];
             $mailPro->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
-            $mailPro->Port = 587;
+            $mailPro->Port = $_ENV['SMTP_PORT'];
+            $mailPro->setFrom($_ENV['SMTP_FROM'], $_ENV['SMTP_NAME']);
 
-            $mailPro->setFrom('zoglopiere20@gmail.com', 'Skyndar');
             $mailPro->addAddress($prestataireEmail, $prestataireNom);
 
             $mailPro->isHTML(true);
