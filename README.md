@@ -14,7 +14,6 @@ Ce projet illustre la combinaison entre **développement logiciel (C#)** et **d�
 
 ## Fonctionnalités principales
 
--
 - **Gestion centralisée** des données.
 - **Accès web en PHP/MySQL** pour les utilisateurs externes.
 - **Interface desktop WPF** pour l’administration et les opérations internes.
