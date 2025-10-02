@@ -9,7 +9,7 @@ use PHPMailer\PHPMailer\Exception;
 use Dotenv\Dotenv;
 
 // Charger les variables d'environnement
-$dotenv = Dotenv::createImmutable(__DIR__ . '/../');
+$dotenv = Dotenv::createImmutable(__DIR__ . '/../../');
 $dotenv->load();
 
 
