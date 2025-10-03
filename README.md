@@ -36,6 +36,6 @@ Ce projet illustre la combinaison entre **d√©veloppement logiciel (C#)** et **d√
 ### 1. Cloner le projet
 
 ```bash
-git clone https://github.fr/expert/HexaNexus28/skyndar.git
+git clone https://github.com/expert/HexaNexus28/skyndar.git
 cd skyndar
 ```
